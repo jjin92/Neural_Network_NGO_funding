@@ -1,2 +1,5 @@
 # ignore the practice folder
 /practice
+
+# ignore the notebook checkpoints
+/.ipynb_checkpoints
